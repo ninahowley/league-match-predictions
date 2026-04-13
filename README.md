@@ -1,1 +1,1 @@
-# cs344-final-project
+# CS344 Final Project (spring 2026)
